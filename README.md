@@ -45,6 +45,7 @@ The project uses the [Food-101 Dataset](https://www.vision.ee.ethz.ch/datasets_e
 A Streamlit-based web application is included to interact with the model:
 1. Upload an image of food.
 2. View the original and reconstructed images side by side.
+3. Visit [Effecient Net - Image Autoencoder](https://image-reconstruction.streamlit.app/)
 
 ## Installation
 1. Clone the repository:
