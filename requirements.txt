@@ -5,4 +5,4 @@ joblib
 torch
 torchvision
 matplotlib
-PIL
+pillow
