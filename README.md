@@ -65,13 +65,6 @@ To train the model, run:
 ```bash
 python main.ipynb
 ```
-
-### Inference
-To test the model, run:
-```bash
-python test.py
-```
-
 ### Streamlit App
 To launch the web application:
 ```bash
