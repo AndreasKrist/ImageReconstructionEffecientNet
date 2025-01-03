@@ -62,7 +62,7 @@ A Streamlit-based web application is included to interact with the model:
 ### Training
 To train the model, run:
 ```bash
-python train.py
+python main.ipynb
 ```
 
 ### Inference
