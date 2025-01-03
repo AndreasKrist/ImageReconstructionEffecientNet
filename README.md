@@ -49,14 +49,14 @@ A Streamlit-based web application is included to interact with the model:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-image-autoencoder.git
-   cd food-image-autoencoder
+   [git clone https://github.com/yourusername/food-image-autoencoder.git](https://github.com/AndreasKrist/ImageReconstructionEffecientNet.git)
+   cd ImageReconstructionEffecientNet
    ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Download the Food-101 dataset and place it in the appropriate directory.
+3. Download the Food-101 dataset and place it in the appropriate directory.(automatically downloaded from provided code)
 
 ## Usage
 ### Training
