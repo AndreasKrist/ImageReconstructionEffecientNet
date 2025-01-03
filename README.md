@@ -10,7 +10,7 @@ This project implements an advanced autoencoder designed to reconstruct food ima
 - **Streamlit Application**: A user-friendly interface to upload images and view reconstruction results.
 
 ## Dataset
-The project uses the [Food-101 Dataset](https://www.vision.ee.ethz.ch/datasets_extra/food-101/):
+The project uses the [Food-101 Dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/):
 - **Number of images**: 101,000
 - **Categories**: 101 food types
 - **Split**: 75,750 for training and 25,250 for testing
