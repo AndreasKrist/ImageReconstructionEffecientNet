@@ -13,7 +13,7 @@ This project implements an advanced autoencoder designed to reconstruct food ima
 The project uses the [Food-101 Dataset](https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/):
 - **Number of images**: 101,000
 - **Categories**: 101 food types
-- **Split**: 75,750 for training and 25,250 for testing
+- **Split**: 75,750 for training and 25,250 for testing 
 - **Preprocessing**: Images resized to 224x224 pixels and normalized to [0, 1]
 
 ## Model Architecture
@@ -68,16 +68,13 @@ python main.ipynb
 ### Streamlit App
 To launch the web application:
 ```bash
-streamlit run app.py
+streamlit run app.py 
 ```
 
 ## Future Work
 - Implementing GAN-based reconstruction models for higher fidelity
 - Exploring larger datasets for broader generalization
 - Optimizing training for faster convergence
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - The creators of the Food-101 dataset
