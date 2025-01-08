@@ -1,6 +1,6 @@
 # Autoencoder for Image Reconstruction Using EfficientNet
 
-## Overview
+## Overview 
 This project implements an advanced autoencoder designed to reconstruct food images with high fidelity. The model leverages EfficientNet-B0 as the encoder and a custom-designed decoder to achieve efficient feature extraction and detailed image reconstruction.
 
 ## Features
